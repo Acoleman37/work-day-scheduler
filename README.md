@@ -15,3 +15,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+<img width="1680" alt="Screen Shot 2021-11-21 at 4 52 36 PM" src="https://user-images.githubusercontent.com/91629574/142786304-96e54076-2990-473e-bdf9-6bc533e68702.png">
