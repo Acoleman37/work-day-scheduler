@@ -1,19 +1,14 @@
-# Work Day Scheduler
+# Daily Planner
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/Acoleman37/employee-db?style=flat&logo=appveyor)
+## Description
+  
+The perfect daily planner to help you organize your day!
 
-Live URL: https://acoleman37.github.io/work-day-scheduler/
+## Questions
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+ </br>
+  
+GitHub: https://github.com/Acoleman37 </br>
+Email: Aleccoleman37@gmail.com
 
 <img width="1680" alt="Screen Shot 2021-11-21 at 4 52 36 PM" src="https://user-images.githubusercontent.com/91629574/142786304-96e54076-2990-473e-bdf9-6bc533e68702.png">
